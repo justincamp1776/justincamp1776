@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👋
 
 <!--
 **justincamp1776/justincamp1776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
