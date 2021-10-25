@@ -3,7 +3,7 @@
 
 Technology Stacks:
 
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="mysql logo"width="30px"/>
 <!--
 **justincamp1776/justincamp1776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
