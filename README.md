@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi, Thanks for stopping by!👋 
 
-
-Technologies:
+Here are some of the technologies I've been working with:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" heigth="50px" width="50px"/><img 
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javaScript logo" heigth="50px"  width="50px"/><img
