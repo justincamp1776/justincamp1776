@@ -7,7 +7,7 @@ Technologies:
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javaScript logo" heigth="50px"  width="50px"/><img
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c sharp logo" heigth="50px"  width="50px"/><img 
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django logo" heigth="200px"  width="50px"/> <img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" type="React logo" heigth="50px"  width="50px"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql logo" width="30px"/>
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" type="React logo" heigth="50px"  width="50px"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql logo" width="30px"/>
 <!--
 **justincamp1776/justincamp1776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
