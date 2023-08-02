@@ -3,26 +3,24 @@
 Here are some of the technologies I've been working with:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c sharp logo" heigth="50px"  width="50px"/><img 
+ src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="c sharp logo" heigth="50px"  width="50px"/><img 
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" heigth="50px" width="50px"/><img
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javaScript logo" heigth="50px" width="50px"/><img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js logo" heigth="50px"  width="50px"/> <img
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js logo" heigth="50px"  width="50px"/> 
+ 
+ <img
+ src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" type="React logo" heigth="50px"  width="50px"/><img
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" type="React logo" heigth="50px"  width="50px"/><img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql logo" width="30px"/> 
+ src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="VS logo" heigth="50px"  width="50px"/> <img
+ src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VSC logo" heigth="50px"  width="50px"/> <img
+ src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alot="slack logo"  heigth="50px"  width="50px"/> 
  
  <img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS logo" heigth="50px"  width="50px"/> <img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSC logo" heigth="50px"  width="50px"/> <img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alot="slack logo"  heigth="50px"  width="50px"/> <img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github logo" heigth="50px"  width="50px"/><img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git logo" heigth="50px"  width="50px"/>
- 
- <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot net logo" heigth="50px"  width="50px"/><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material logo" heigth="50px"  width="50px"/><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linked in logo" heigth="50px"  width="50px"/><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" heigth="50px"  width="50px"/><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css logo" heigth="50px"  width="50px"/><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5 logo" heigth="50px"  width="50px"/>                                                                                                                                           
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="dot net logo" heigth="50px"  width="50px"/><img
+  src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="material logo" heigth="50px"  width="50px"/><img
+  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="linked in logo" heigth="50px"  width="50px"/><img
+  src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="bootstrap logo" heigth="50px"  width="50px"/><img 
+  src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" heigth="50px"  width="50px"/>
                                                                                                                                                     
  
  
